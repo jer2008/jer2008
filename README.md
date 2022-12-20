@@ -2,6 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning SSH(
 
+![](https://cdn.jsdelivr.net/gh/jer2008/jer2008@main/assets/github-contribution-grid-snake.svg)
+
 Welcome to my blog (https://blog.jersite.gq).
 
 <!---
